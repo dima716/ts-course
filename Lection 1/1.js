@@ -5,7 +5,7 @@
  * @property {'json'|'text'|'document'|'buffer'} [contentType]
  */
 const defaultConfig = {
-  headers: {Authorization: myToken}
+  headers: { Authorization: myToken },
 };
 
 /**
