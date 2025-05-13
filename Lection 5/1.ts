@@ -28,3 +28,5 @@ const fake = { name: 'Dog', bark: () => 'Woof!' };
 
 console.log(processCharacter(hero)); // "Hero moves: Runs forward!"
 console.log(processCharacter(fake)); // "Not a game character!"
+
+export {};

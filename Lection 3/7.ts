@@ -7,3 +7,5 @@ type Coordinates = [
 function describeLocation([lat, lon, ...landmarks]: Coordinates): string {
   return `Широта: ${lat}, Долгота: ${lon}${landmarks.length ? `. Ориентиры: ${landmarks.join(', ')}` : ''}`;
 }
+
+export {};

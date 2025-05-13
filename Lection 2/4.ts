@@ -26,3 +26,5 @@ calculateArea(2, 3, 4);
 
 // @ts-expect-error
 calculateArea(1, 2, 3, 4);
+
+export {};

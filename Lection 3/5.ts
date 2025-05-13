@@ -30,3 +30,5 @@ function getAccessLevel(value: RoleOrStatus): string {
     return 'No access';
   }
 }
+
+export {};

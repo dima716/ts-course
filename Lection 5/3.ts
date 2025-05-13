@@ -53,3 +53,5 @@ if (isCircle(shape)) {
  * */
 const unsafeCircle: Circle1 = shape as any as Circle1;
 unsafeCircle.radius = 5;
+
+export {};

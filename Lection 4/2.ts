@@ -67,3 +67,5 @@ TaskServant.completeTasksWithPriority([task1, task2], 1);
 
 console.log(task1);
 console.log(task2);
+
+export {};

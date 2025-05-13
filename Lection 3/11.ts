@@ -16,3 +16,5 @@ const teamLead: TeamLead = {
   teamSize: 5,
   role: 'Architect',
 };
+
+export {};

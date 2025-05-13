@@ -16,3 +16,5 @@ function checkPermissions(role: UserRole1, status: AccountStatus1): boolean {
 
 // В итоговом JavaScript-коде const enum не попадает вообще.
 // Все обращения к его членам заменяются (инлайнятся) на соответствующие литеральные значения на этапе компиляции.
+
+export {};

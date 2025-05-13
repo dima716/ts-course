@@ -94,3 +94,5 @@ console.log(home.getStatusAll());
 
 home.turnAllOff();
 console.log(home.getStatusAll());
+
+export {};
