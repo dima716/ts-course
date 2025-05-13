@@ -9,3 +9,5 @@ type RenamedForm = {
     ? string
     : undefined;
 };
+
+export {};

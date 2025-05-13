@@ -46,3 +46,5 @@ notificationService.setStrategy(new Sms());
 notificationService.notify('hello!');
 notificationService.setStrategy(new Push());
 notificationService.notify('hello!');
+
+export {};

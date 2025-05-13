@@ -6,3 +6,5 @@ interface User2 {
   name: this['data']['name'];
   age: this['data']['age'];
 }
+
+export {};

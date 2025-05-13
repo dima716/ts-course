@@ -11,3 +11,5 @@ type UsersDict = {
 function getUserEmail(id: number, users: UsersDict): string | undefined {
   return users[id]?.email;
 }
+
+export {};

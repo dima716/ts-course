@@ -39,3 +39,5 @@ class Employee1 {
     };
   }
 }
+
+export {};

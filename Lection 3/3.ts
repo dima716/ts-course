@@ -36,3 +36,5 @@ function createRectangle(width: number, height: number): Rectangle {
 function calcArea(shape: Shape): number {
   return shape.area();
 }
+
+export {};

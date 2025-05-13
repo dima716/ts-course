@@ -114,3 +114,5 @@ detailedRenderer.setImplementation(new CanvasRenderer());
 
 detailedRenderer.renderCircle(1, 2, 50);
 detailedRenderer.renderRectangle(0, 0, 100, 200);
+
+export {};

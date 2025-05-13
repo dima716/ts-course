@@ -21,3 +21,5 @@ function print(user: User1): void {
 }
 
 print(user);
+
+export {};
